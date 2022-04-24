@@ -42,5 +42,5 @@ Send GET request to url: http://localhost:8080/api/average. Response be like:
 }
 ```
 
-## Unit Tests [EndpointTests](src/test/java/com/example/demo/EndpointTests)
+## Unit Tests [EndpointTests](src/test/java/com/example/demo/EndpointTests.java)
 Creates and sends 1000 mortgage requests and checks whether implementation is correct.
